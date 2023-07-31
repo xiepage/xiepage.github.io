@@ -12,13 +12,6 @@ redirect_from:
 
 My research interest includes computer vision and machine learning.
 
-# 🎙 Experiences
-- *2022-Now*, Professor, Nanjing University of Science and Technology
-- *2020-2022*, Researcher, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- *2018-2020*, Researcher, Inception Institute of Artificial Intelligence, UAE
-- *2014-2015*, Joint Ph.D candidate, National University of Singapore
-- *2012-2016*, Ph.D candidate, Institute of Automation Chinese Academy of Sciences
-
 # 🔥 News
 - *2023.07*, Test, test, test.
 
@@ -28,7 +21,7 @@ My research interest includes computer vision and machine learning.
 # 💗 Grants
 - 江苏省特聘教授计划
 - 国家自然科学基金面上项目
-- 家自然科学基金青年基金
+- 国家自然科学基金青年基金
 - 南京理工大学科研启动资金
 
 # 📖 Seminars
@@ -38,6 +31,14 @@ My research interest includes computer vision and machine learning.
 - *2023*, Fenfang Tao, Shijie Yu
 - *2022*, Junyi Li, Yin Tang (co-supervised)
 - *2021*, Ting Guo (co-supervised)
+
+
+# 🎙 Experiences
+- *2022-Now*, Professor, Nanjing University of Science and Technology
+- *2020-2022*, Researcher, Mohamed bin Zayed University of Artificial Intelligence, UAE
+- *2018-2020*, Researcher, Inception Institute of Artificial Intelligence, UAE
+- *2012-2016*, Ph.D candidate, Institute of Automation Chinese Academy of Sciences
+- *2014-2015*, Visiting Ph.D candidate, National University of Singapore
 
 # 👔 Services
 - AE: Artificial Intelligence and Applications (AIA) Journal
