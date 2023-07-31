@@ -39,6 +39,12 @@ My research interest includes computer vision and machine learning.
 - [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
 - [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
 
+# 💰 Grants
+- 主持江苏特聘教授计划，
+- 国家自然科学基金面上项目
+- 家自然科学基金青年基金
+- 南京理工大学科研启动资金
+
 # 📖 Seminars
 - *2021.09* topic.
 - *2021.09* topic.
@@ -51,9 +57,9 @@ My research interest includes computer vision and machine learning.
 - *2021.09* topic.
 
 # 🎖 Group
-- 2023, *Fenfang Tao*, *Shijie Yu*
-- 2022, *Junyi Li*, *Yin Tang (co-supervised)*
-- 2021, *Ting Guo (co-supervised)*
+- *2023*, Fenfang Tao, Shijie Yu
+- *2022*, Junyi Li, Yin Tang (co-supervised)
+- *2021*, Ting Guo (co-supervised)
 
 # 💬 Services
 - AE: Artificial Intelligence and Applications (AIA) Journal
