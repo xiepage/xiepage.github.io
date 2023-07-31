@@ -10,13 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes computer vision and machine learning.
+I am engaged in research on computer vision, pattern recognition, and deep learning. Recently, I have been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-shot, few-shot, and low-annotated data driven by knowledge-based approaches.
 
 # 🔥 News
-- *2023.07*, Test, test, test.
+- 每年招收学生2-3名，在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者垂询！其它要求：（1）需具备扎实的编程能力；（2）需具备一定数学基础；（3）需具备一定英文文献阅读能力。
 
 # 📝 Publications 
-- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
+- **G.-S Xie**, X.-Y. Zhang, S. Yan , and C.-L. Liu. SDE: A novel selective, discriminative and equalizing feature representation for visual recognition, International Journal of Computer Vision (IJCV), vol. 124, no.2, pp. 145-168, 2017. (CCF A)
+- **G.-S Xie**, X.-Y. Zhang, Y. Yao, Z. Zhang, F. Zhao, and L. Shao. VMAN: A Virtual Mainstay Alignment Network for Transductive Zero-Shot Learning, IEEE Transactions on Image Processing (TIP), vol. 30, pp. 4316-4329, 2021. (CCF A)
+- **G.-S Xie**, L. Liu, X. Jin, F. Zhu, Z. Zhang, J. Qin, Y. Yao, and L. Shao. Attentive region embedding network for zero-shot learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9384-9393, 2019. (CCF A)
+- **G.-S Xie**, H. Xiong, J. Liu, Y. Yao, and Ling Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
+- **G.-S Xie**, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
+- X. Shu, L. Zhang, J.Tang, **G.-S Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
+- S. Chen, Z. Hong, **G.-S Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning , IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
+- For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
 
 # 💗 Grants
 - 江苏省特聘教授计划
@@ -25,7 +32,9 @@ My research interest includes computer vision and machine learning.
 - 南京理工大学科研启动资金
 
 # 📖 Seminar
-- *2021.09*, TOPIC
+- *2023.07*, Visual Recognition for Images, Video, and 3D
+- *2023.06*, Adversarial Robustness in Deep Learning
+- *2023.05*, Breakthroughs in LLM Research and Constitutional AI  
   
 # 🎖 Group
 - *2023*, Fenfang Tao, Shijie Yu
