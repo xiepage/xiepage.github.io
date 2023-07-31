@@ -30,12 +30,6 @@ More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF
 - S. Chen, Z. Hong, **G.-S Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning , IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
 - For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
 
-# 💗 Grants
-- 江苏省特聘教授计划
-- 国家自然科学基金面上项目
-- 国家自然科学基金青年基金
-- 南京理工大学科研启动资金
-
 # 📖 Seminar
 - *2023.07*, Visual Recognition for Images, Video, and 3D
 - *2023.06*, Adversarial Robustness in Deep Learning
