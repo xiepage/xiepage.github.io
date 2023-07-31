@@ -23,10 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guo-Sen XIE"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D"
+  bio              : "Ph.D, gsxiehm@gmail.com"
   location         : "Nanjing, P.R.China"
   googlescholar    : "https://scholar.google.com/citations?user=LKaWa9gAAAAJ"
-  email            : "guosen.xie@njust.edu.cn"
   dblp             : "https://dblp.org/pid/150/4121.html"
   orcid            : "https://orcid.org/0000-0002-5487-9845"
 
