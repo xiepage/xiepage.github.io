@@ -24,7 +24,7 @@ My research interest includes computer vision and machine learning.
 - 国家自然科学基金青年基金
 - 南京理工大学科研启动资金
 
-# 📖 Seminars
+# 📖 Seminar
 - *2021.09*, TOPIC
   
 # 🎖 Group
