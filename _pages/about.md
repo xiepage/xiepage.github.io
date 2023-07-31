@@ -17,7 +17,7 @@ I am engaged in research on computer vision, pattern recognition, and deep learn
 - 同时<font color=red>招收优秀本科生进组</font>参与科研项目，欢迎邮件联系guosen.xie@njust.edu.cn。
 
 # 📝 Publications 
-More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF A TOP-ranked venues, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACMM (CCF A), etc.
+More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF A TOP-ranked venues, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
 
 **Selected Papers**:
 - **G.-S Xie**, X.-Y. Zhang, S. Yan , and C.-L. Liu. SDE: A novel selective, discriminative and equalizing feature representation for visual recognition, International Journal of Computer Vision (IJCV), vol. 124, no.2, pp. 145-168, 2017. (CCF A)
@@ -39,7 +39,7 @@ More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF
 # 📖 Seminar
 - *2023.07*, Visual Recognition for Images, Video, and 3D
 - *2023.06*, Adversarial Robustness in Deep Learning
-- *2023.05*, Breakthroughs in LLM Research and Constitutional AI  
+- *2023.05*, Breakthroughs in LLM Research and Conversational AI  
   
 # 🎖 Group
 - *2023*, Fenfang Tao (Master student), Shijie Yu (Master student)
