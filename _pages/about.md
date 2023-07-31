@@ -22,15 +22,41 @@ My research interest includes computer vision and machine learning.
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*: &nbsp;🎉🎉 Test, test, test.
 
 # 📝 Publications 
+- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
+- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
+- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
+- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
+- [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
 - [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
 
 # 📖 Seminars
 - *2021.10* topic. 
 - *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
+- *2021.09* topic.
 
 # 🎖 Group
+- *Student*
+- *Student*
+- *Student*
+- *Student*
+- *Student*
 - *Student*
 - *Student*
 
