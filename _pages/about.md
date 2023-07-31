@@ -13,7 +13,7 @@ redirect_from:
 I am engaged in research on computer vision, pattern recognition, and deep learning. Recently, I have been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-shot, few-shot, and low-annotated data driven by knowledge-based approaches.
 
 # 🔥 News
-- <font color=red>每年招收硕、博学生2-3名</font>在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者垂询！其它要求：（1）需具备扎实的编程能力；（2）需具备一定数学基础；（3）需具备一定英文文献阅读能力。
+- 目前<font color=red>每年招收硕、博学生2-3名</font>在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者垂询！其它要求：（1）需具备扎实的编程能力；（2）需具备一定数学基础；（3）需具备一定英文文献阅读能力。
 - 同时<font color=red>招收优秀本科生进组</font>参与科研项目，欢迎邮件联系guosen.xie@njust.edu.cn。
 
 # 📝 Publications 
