@@ -12,8 +12,8 @@ main:
   - title: "Grants"
     url: "/#-grants"
 
-  - title: "Seminars"
-    url: "/#-seminars"
+  - title: "Seminar"
+    url: "/#-seminar"
 
   - title: "Group"
     url: "/#-group"
