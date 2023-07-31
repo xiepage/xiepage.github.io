@@ -3,7 +3,7 @@ permalink: /
 title: "Guo-Sen Xie"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -27,15 +27,7 @@ My research interest includes computer vision and machine learning.
 - *2012-2016*, Ph.D candidate, Institute of Automation Chinese Academy of Sciences
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
-- *2023.07*: &nbsp;🎉🎉 Test, test, test.
+- *2023.07*, Test, test, test.
 
 # 📝 Publications 
 - [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
@@ -52,16 +44,8 @@ My research interest includes computer vision and machine learning.
 - 南京理工大学科研启动资金
 
 # 📖 Seminars
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-- *2021.09* topic.
-
+- *2021.09*, TOPIC
+  
 # 🎖 Group
 - *2023*, Fenfang Tao, Shijie Yu
 - *2022*, Junyi Li, Yin Tang (co-supervised)
