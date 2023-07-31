@@ -18,8 +18,5 @@ main:
   - title: "Group"
     url: "/#-group"
 
-  - title: "Experiences"
-    url: "/#-experiences"
-
   - title: "Services"
     url: "/#-services"
