@@ -36,7 +36,7 @@ More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF
 - *2023.01*, Breakthroughs in LLM Research and Conversational AI  
   
 # 🎖 Group
-- Positions for Master/Ph.D's Programme
+- <font color=red>Positions for Master/Ph.D's Programme</font>
     - We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to contact us at guosen.xie@njust.edu.cn.
 
 - Current Members
