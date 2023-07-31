@@ -36,9 +36,13 @@ More than 70 highly-influenced papers published in ACM/IEEE Transactions and CCF
 - *2023.01*, Breakthroughs in LLM Research and Conversational AI  
   
 # 🎖 Group
-- *2023*, Fenfang Tao (Master student), Shijie Yu (Master student)
-- *2022*, Junyi Li (Master student), Yin Tang (Ph.D student, co-supervised)
-- *2021*, Ting Guo (Ph.D student, co-supervised)
+- Positions for Master/Ph.D's Programme
+    - We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to contact us at guosen.xie@njust.edu.cn.
+
+- Current Members
+    - *2023*, Fenfang Tao (Master student), Shijie Yu (Master student)
+    - *2022*, Junyi Li (Master student), Yin Tang (Ph.D student, co-supervised)
+    - *2021*, Ting Guo (Ph.D student, co-supervised)
 
 # 👔 Services
 - AE: Artificial Intelligence and Applications (AIA) Journal
