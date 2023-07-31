@@ -32,14 +32,6 @@ My research interest includes computer vision and machine learning.
 - *2022*, Junyi Li, Yin Tang (co-supervised)
 - *2021*, Ting Guo (co-supervised)
 
-
-# 🎙 Experiences
-- *2022-Now*, Professor, Nanjing University of Science and Technology
-- *2020-2022*, Researcher, Mohamed bin Zayed University of Artificial Intelligence, UAE
-- *2018-2020*, Researcher, Inception Institute of Artificial Intelligence, UAE
-- *2012-2016*, Ph.D candidate, Institute of Automation Chinese Academy of Sciences
-- *2014-2015*, Visiting Ph.D candidate, National University of Singapore
-
 # 👔 Services
 - AE: Artificial Intelligence and Applications (AIA) Journal
 - PC Member: CVPR 2019-2023, ICCV 2019-2023, ECCV 2020-2022, AAAI 2020-2022, IJCAI 2020-2023, NeurIPS 2022, ICML 2023, ICLR 2022-2023, WACV 2021-2022
