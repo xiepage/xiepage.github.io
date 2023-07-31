@@ -26,7 +26,7 @@ My research interest includes computer vision and machine learning.
 - [Attentive region embedding network for zero-shot learning, CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf), **Guo-Sen Xie**, Li Liu, Xiaobo Jin, ...
 
 # 💗 Grants
-- 主持江苏特聘教授计划，
+- 江苏省特聘教授计划
 - 国家自然科学基金面上项目
 - 家自然科学基金青年基金
 - 南京理工大学科研启动资金
