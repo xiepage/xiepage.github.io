@@ -27,11 +27,10 @@ author:
   location         : "Nanjing, P.R.China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=LKaWa9gAAAAJ"
   email            : "guosen.xie@njust.edu.cn"
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/150/4121.html"
+  orcid            : "https://orcid.org/0000-0002-5487-9845"
 
 
 # Reading Files
