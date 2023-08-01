@@ -11,14 +11,6 @@ description              : "Professor, NJUST"
 repository               : "xiepage/xiepage.github.io"
 google_scholar_stats_use_cdn : false
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
-
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
-
 # Site Author
 author:
   name             : "Guo-Sen Xie"
@@ -29,7 +21,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=LKaWa9gAAAAJ"
   dblp             : "https://dblp.org/pid/150/4121.html"
   orcid            : "https://orcid.org/0000-0002-5487-9845"
-
 
 # Reading Files
 include:
