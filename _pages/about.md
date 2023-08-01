@@ -41,12 +41,25 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - <font color=red>Positions for Interns/Master/Ph.D's Programme</font>
     - We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (guosen.xie@njust.edu.cn) if you are interested.
 
-- Current Members
+- Current Members:
     - *2023*, Fenfang Tao (Master student), Shijie Yu (Master student)
     - *2022*, Junyi Li (Master student), Yin Tang (Ph.D student, co-supervised)
     - *2021*, Ting Guo (Ph.D student, co-supervised)
 
 # 👔 <font color=0969DA>Services</font>
-- AE: Artificial Intelligence and Applications (AIA) Journal
-- PC Member: CVPR 2019-2023, ICCV 2019-2023, ECCV 2020-2022, AAAI 2020-2022, IJCAI 2020-2023, NeurIPS 2022, ICML 2023, ICLR 2022-2023, WACV 2021-2022
-- Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Cybernetics (TCYB), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Geoscience and Remote Sensing (TGRS), Pattern Recognition Journal (PR), Neural Networks (NN), etc.
+- AE:
+    - Artificial Intelligence and Applications (AIA) Journal
+- PC Member:
+    - CVPR 2019-2023, ICCV 2019-2023, ECCV 2020-2022, WACV 2021-2022
+    - NeurIPS 2022, ICML 2023, ICLR 2022-2023, AAAI 2020-2022, IJCAI 2020-2023
+- Reviewer:
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+    - International Journal of Computer Vision (IJCV)
+    - IEEE Transactions on Image Processing (TIP)
+    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+    - IEEE Transactions on Cybernetics (TCYB)
+    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    - IEEE Transactions on Multimedia (TMM)
+    - IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+    - Pattern Recognition Journal (PR)
+    - Neural Networks (NN)
