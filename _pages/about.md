@@ -49,7 +49,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 # 👔 <font color=0969DA>Services</font>
 - AE:
     - Artificial Intelligence and Applications (AIA) Journal
-- PC Member:
+- (Senior) PC Member:
     - CVPR 2019-2023, ICCV 2019-2023, ECCV 2020-2022, WACV 2021-2022
     - NeurIPS 2022, ICML 2023, ICLR 2022-2023, AAAI 2020-2022, IJCAI 2020-2023
 - Reviewer:
