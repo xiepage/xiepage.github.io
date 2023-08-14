@@ -22,12 +22,12 @@ His current research interests mainly focus on computer vision, pattern recognit
 More than 70 highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
 
 **Selected Papers**:
-- **G.-S Xie**, X.-Y. Zhang, S. Yan, and C.-L. Liu. SDE: A novel selective, discriminative and equalizing feature representation for visual recognition, International Journal of Computer Vision (IJCV), vol. 124, no.2, pp. 145-168, 2017. (CCF A)
-- **G.-S Xie**, X.-Y. Zhang, Y. Yao, Z. Zhang, F. Zhao, and L. Shao. VMAN: A Virtual Mainstay Alignment Network for Transductive Zero-Shot Learning, IEEE Transactions on Image Processing (TIP), vol. 30, pp. 4316-4329, 2021. (CCF A)
-- **G.-S Xie**, L. Liu, X. Jin, F. Zhu, Z. Zhang, J. Qin, Y. Yao, and L. Shao. Attentive region embedding network for zero-shot learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9384-9393, 2019. (CCF A)
-- **G.-S Xie**, H. Xiong, J. Liu, Y. Yao, and L. Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
-- **G.-S Xie**, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
-- **G.-S Xie**, X.-Y. Zhang, X. Shu, S. Yan, C.-L. Liu. Task-driven Feature Pooling for Image Classification, IEEE International Conference on Computer Vision (ICCV), pp. 1179-1187, 2015. (CCF A)
+- **G.-S. Xie**, X.-Y. Zhang, S. Yan, and C.-L. Liu. SDE: A novel selective, discriminative and equalizing feature representation for visual recognition, International Journal of Computer Vision (IJCV), vol. 124, no.2, pp. 145-168, 2017. (CCF A)
+- **G.-S. Xie**, X.-Y. Zhang, Y. Yao, Z. Zhang, F. Zhao, and L. Shao. VMAN: A Virtual Mainstay Alignment Network for Transductive Zero-Shot Learning, IEEE Transactions on Image Processing (TIP), vol. 30, pp. 4316-4329, 2021. (CCF A)
+- **G.-S. Xie**, L. Liu, X. Jin, F. Zhu, Z. Zhang, J. Qin, Y. Yao, and L. Shao. Attentive region embedding network for zero-shot learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9384-9393, 2019. (CCF A)
+- **G.-S. Xie**, H. Xiong, J. Liu, Y. Yao, and L. Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
+- **G.-S. Xie**, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
+- **G.-S. Xie**, X.-Y. Zhang, X. Shu, S. Yan, C.-L. Liu. Task-driven Feature Pooling for Image Classification, IEEE International Conference on Computer Vision (ICCV), pp. 1179-1187, 2015. (CCF A)
 - X. Shu, L. Zhang, J.Tang, **G.-S Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
 - S. Chen, Z. Hong, **G.-S Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
 - For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
