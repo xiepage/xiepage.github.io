@@ -28,8 +28,8 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - **G.-S. Xie**, H. Xiong, J. Liu, Y. Yao, and L. Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
 - **G.-S. Xie**, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
 - **G.-S. Xie**, X.-Y. Zhang, X. Shu, S. Yan, C.-L. Liu. Task-driven Feature Pooling for Image Classification, IEEE International Conference on Computer Vision (ICCV), pp. 1179-1187, 2015. (CCF A)
-- X. Shu, L. Zhang, J.Tang, **G.-S Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
-- S. Chen, Z. Hong, **G.-S Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
+- X. Shu, L. Zhang, J.Tang, **G.-S. Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
+- S. Chen, Z. Hong, **G.-S. Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
 - For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
 
 # 📖 <font color=0969DA>Seminar</font> 
