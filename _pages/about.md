@@ -15,12 +15,13 @@ Dr. Guo-Sen Xie is currently a Professor at Nanjing University of Science and Te
 His current research interests mainly focus on computer vision, pattern recognition, and deep learning. Recently, he has been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-/few-shot, and low-annotated data, driven by knowledge-based approaches.
 
 #  <font color=0969DA>News</font>
-- 🔥 目前<font color=red>每年招收硕士生、博士生2-3名</font>，并在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者联系！
+- 🔥🔥🔥 目前<font color=red>每年招收硕士生、博士生2-3名</font>，并在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者联系！
     - 其它要求：
-    - （1）需具备扎实的编程能力；
-    - （2）需具备一定数学基础；
-    - （3）需具备一定英文文献阅读能力。
-- 🔥 同时<font color=red>欢迎优秀本科生进组</font>参与科研项目，欢迎邮件联系<font color=blue>guosen.xie@njust.edu.cn</font>。
+    - :triangular_flag_on_post: 需具备自我驱动能力；
+    - :triangular_flag_on_post: 需具备扎实的编程能力；
+    - :triangular_flag_on_post: 需具备一定数学基础；
+    - :triangular_flag_on_post: 需具备一定英文文献阅读能力。
+- 🔥🔥🔥 同时<font color=red>欢迎优秀本科生进组</font>参与科研项目，欢迎邮件联系<font color=blue>guosen.xie@njust.edu.cn</font>。
 
 #  <font color=0969DA>Publications</font>
 More than 70 highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
