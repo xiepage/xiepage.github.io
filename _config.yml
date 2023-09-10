@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guo-Sen Xie"
-description              : "Professor, NJUST"
+description              : "Ph.D, Professor"
 repository               : "xiepage/xiepage.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -15,7 +15,7 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Guo-Sen Xie"
   avatar           : "images/profile.jpg"
-  bio              : "Ph.D Supervisor"
+  bio              : 
   email            : "gsxiehm@gmail.com"
   location         : "Nanjing, P.R.China"
   googlescholar    : "https://scholar.google.com/citations?user=LKaWa9gAAAAJ"
