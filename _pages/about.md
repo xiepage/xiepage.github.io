@@ -15,13 +15,12 @@ Dr. Guo-Sen Xie is currently a Professor at Nanjing University of Science and Te
 His current research interests mainly focus on computer vision, pattern recognition, and deep learning. Recently, he has been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-/few-shot, and low-annotated data, driven by knowledge-based approaches.
 
 #  <font color=0969DA>News</font>
-- 🔥🔥🔥 目前<font color=red>每年招收硕士生、博士生2-3名</font>，并在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行联合培养。欢迎有志于从事相关科学研究、脚踏实地、乐观进取者联系！
+- 🔥目前<font color=red>每年可招收硕士生3-4名、博士生1-2名</font>。欢迎感兴趣的同学报考硕士、博士研究生，将在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行交流访问。同时<font color=red>欢迎优秀本科生联系</font>参与科研项目。
     - 其它要求：
-        - 🚩 需具备自我驱动能力；
-        - 🚩 需具备扎实的编程能力；
-        - 🚩 需具备一定数学基础；
-        - 🚩 需具备一定英文文献阅读能力。
-- 🔥🔥🔥 同时<font color=red>欢迎优秀本科生进组</font>参与科研项目，欢迎邮件联系<font color=blue>guosen.xie@njust.edu.cn</font>。
+        - 需具备自我驱动能力；
+        - 需具备扎实的编程能力；
+        - 需具备一定数学基础；
+        - 需具备一定英文文献阅读能力。
 
 #  <font color=0969DA>Publications</font>
 More than 70 highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
@@ -33,6 +32,10 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - **G.-S. Xie**, H. Xiong, J. Liu, Y. Yao, and L. Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
 - **G.-S. Xie**, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
 - **G.-S. Xie**, X.-Y. Zhang, X. Shu, S. Yan, C.-L. Liu. Task-driven Feature Pooling for Image Classification, IEEE International Conference on Computer Vision (ICCV), pp. 1179-1187, 2015. (CCF A)
+- **G.-S. Xie**, T.-Z. Xiang, X.-Y. Zhang, Z. Zhang, F. Zhao, L. Shao, X. Li. Leveraging Balanced Semantic Embedding for Generative Zero-Shot Learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Early Access, DOI: 10.1109/TNNLS.2022.3208525, 2023. 
+- **G.-S. Xie**, Z. Zhang, L. Liu, F. Zhu, X.-Y. Zhang, L. Shao, and X. Li. SRSC: Selective, robust, and supervised constrained feature representation for image classification, IEEE Trans. on Neural Networks and Learning Systems (TNNLS), vol. 31, no. 10, pp. 4290-4302, 2020.
+-  **G.-S. Xie**, Z. Zhang, G. Liu, F. Zhu, L. Liu, L. Shao, and X. Li. Generalized zero-shot learning with multiple graph adaptive generative networks, IEEE Trans. on Neural Networks and Learning Systems (TNNLS), vol. 33, no. 7, pp. 2903-2915, 2022.
+- **G.-S. Xie**, X.-Y. Zhang, S. Yan, and C.-L. Liu. Hybrid CNN and Dictionary-Based Models for Scene Recognition and Domain Adaptation, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol.27, no.6, pp. 1263-1274, 2017. 
 - X. Shu, L. Zhang, J.Tang, **G.-S. Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
 - S. Chen, Z. Hong, **G.-S. Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
 - For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
