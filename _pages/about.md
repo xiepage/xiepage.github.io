@@ -36,11 +36,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - X. Shu, L. Zhang, J.Tang, **G.-S. Xie**, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
 - S. Chen, Z. Hong, **G.-S. Xie**, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
 - For more papers, please kindly refer to [**my Google Scholar page**](https://scholar.google.com/citations?user=LKaWa9gAAAAJ).
-
-#  <font color=0969DA>Seminar</font>
-- *2023.07*, Visual Recognition for Images, Video, and 3D
-- *2023.04*, Adversarial Robustness in Deep Learning
-- *2023.01*, Breakthroughs in LLM Research and Conversational AI  
   
 #  <font color=0969DA>Group</font>
 - <font color=red>Positions for Interns/Master/Ph.D's Programme</font>
