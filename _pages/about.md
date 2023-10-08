@@ -39,16 +39,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - <font color=red>Positions for Interns/Master/Ph.D's Programme</font>
     - We are looking for students, who are self-motivated and have a solid foundation in mathematics and programming. Please feel free to drop me an email (guosen.xie@njust.edu.cn) if you are interested.
 
-- Current Members:
-    - *2023*:
-        - Fenfang Tao (Master student)
-        - Shijie Yu (Master student)
-        - Shifeng Peng (Master student)
-    - *2022*:
-        - Junyi Li (Master student)
-        - Yin Tang (Ph.D. student, co-supervised)
-    - *2021*:
-        - Ting Guo (Ph.D. student, co-supervised)
 
 #  <font color=0969DA>Service</font>
 - AE:
