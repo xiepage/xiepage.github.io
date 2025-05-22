@@ -31,7 +31,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 <table align="center" border="none">
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/SDE.png"/>
+        <img align="left" width="150" height="100" src="/images/SDE.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -42,7 +42,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
       <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/VMAN.png"/>
+        <img align="left" width="150" height="100" src="/images/VMAN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -53,7 +53,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
         <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/AREN.png"/>
+        <img align="left" width="150" height="100" src="/images/AREN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -64,7 +64,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
         <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/CMN.png"/>
+        <img align="left" width="150" height="100" src="/images/CMN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -75,7 +75,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
           <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/RGEN.png"/>
+        <img align="left" width="150" height="100" src="/images/RGEN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -86,7 +86,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/Task_Driven.png"/>
+        <img align="left" width="150" height="100" src="/images/Task_Driven.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -97,7 +97,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
       <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/LBSE.png"/>
+        <img align="left" width="150" height="100" src="/images/LBSE.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -108,7 +108,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
         <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/SRSC.png"/>
+        <img align="left" width="150" height="100" src="/images/SRSC.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -119,7 +119,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
           <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/GAGN.png"/>
+        <img align="left" width="150" height="100" src="/images/GAGN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -130,7 +130,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
     <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/HCNN.png"/>
+        <img align="left" width="150" height="100" src="/images/HCNN.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -141,7 +141,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
       <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/CFR.png"/>
+        <img align="left" width="150" height="100"" src="/images/CFR.png"/>
       </td>
       <td>
         <p text-align="left">
@@ -152,7 +152,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
         <tr>
       <td>
-        <img align="left" width="330" height="240" src="/images/Transzero.png"/>
+        <img align="left" width="150" height="100" src="/images/Transzero.png"/>
       </td>
       <td>
         <p text-align="left">
