@@ -30,8 +30,8 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 </style>
 <table align="center" border="none">
     <tr>
-      <td>
-        <img align="left" width="150" height="100" src="/images/SDE.png"/>
+      <td style="padding-right: 15px;">
+        <img align="left" width="150" height="100" src="/images/SDE.png" style="margin-right: 10px;"/>
       </td>
       <td>
         <p text-align="left">
@@ -141,7 +141,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
     </tr>
       <tr>
       <td>
-        <img align="left" width="150" height="100"" src="/images/CFR.png"/>
+        <img align="left" width="150" height="100" src="/images/CFR.png"/>
       </td>
       <td>
         <p text-align="left">
