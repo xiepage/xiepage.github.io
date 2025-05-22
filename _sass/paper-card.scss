@@ -1,0 +1,15 @@
+.paper-card {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: flex-start;
+}
+
+.paper-image {
+  width: 200px;
+  height: auto;
+  margin-right: 15px;
+}
+
+.paper-content {
+  flex: 1;
+}
