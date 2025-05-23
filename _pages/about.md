@@ -101,19 +101,8 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       </td>
       <td>
         <p text-align="left">
-        <b>G.-S. Xie</b>, T.-Z. Xiang, X.-Y. Zhang, Z. Zhang, F. Zhao, L. Shao, X. Li. Leveraging Balanced Semantic Embedding for Generative Zero-Shot Learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Early Access, DOI: 10.1109/TNNLS.2022.3208525, 2023. 
+        <b>G.-S. Xie</b>, T.-Z. Xiang, X.-Y. Zhang, Z. Zhang, F. Zhao, L. Shao, X. Li. Leveraging Balanced Semantic Embedding for Generative Zero-Shot Learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 34, no. 11, pp. 9575-9582, 2023.  
         <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927312">[PDF-Link]</a>
-        </p>
-      </td>
-    </tr>
-        <tr>
-      <td>
-        <img align="left" width="150" height="100" src="/images/SRSC.png"/>
-      </td>
-      <td>
-        <p text-align="left">
-        <b>G.-S. Xie</b>, Z. Zhang, L. Liu, F. Zhu, X.-Y. Zhang, L. Shao, and X. Li. SRSC: Selective, robust, and supervised constrained feature representation for image classification, IEEE Trans. on Neural Networks and Learning Systems (TNNLS), vol. 31, no. 10, pp. 4290-4302, 2020.
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8937716">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -171,7 +160,10 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 
 #  <font color=0969DA>Service</font>
 - AE:
+    - IEEE Transactions on Image Processing (CCF A, IF=10.8)
+    - Pattern Recognition (IF =7.5)
     - Artificial Intelligence and Applications (AIA) Journal
+    - Area Chair (领域主席)： ICLR 2025
 - (Senior) PC Member:
     - CVPR 2019-2023, ICCV 2019-2023, ECCV 2020-2022, WACV 2021-2022
     - NeurIPS 2022-2023, ICML 2023, AAAI 2020-2022, IJCAI 2020-2023
