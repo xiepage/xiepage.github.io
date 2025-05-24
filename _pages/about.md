@@ -155,7 +155,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       </td>
       <td>
         <p text-align="left">
-        XY Zhang, <b>G.-S. Xie</b>, X Li, T Mei, CL Liu, A survey on learning to reject, Proceedings of the IEEE(<b>Proc. IEEE</b>), vol. 111 no. 2, pp. 185-215, 2023. (CCF A)
+        XY Zhang, <b>G.-S. Xie</b>, X Li, T Mei, CL Liu, A survey on learning to reject, Proceedings of the IEEE(<b>Proc. IEEE</b>), vol. 111, no. 2, pp. 185-215, 2023. (CCF A)
         </p>
       </td>
     </tr>
