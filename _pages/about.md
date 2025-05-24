@@ -145,7 +145,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       </td>
       <td>
         <p text-align="left">
-        W Li, G Chu, J Chen, <b>GS Xie</b>, C Shan, F Zhao, Lad-reasoner: Tiny multimodal models are good reasoners for logical anomaly detection, arXiv preprint arXiv:2504.12749, under <b>ACM MM</b> submission. (CCF A)
+        W Li, G Chu, J Chen, <b>G.-S. Xie</b>, C Shan, F Zhao, Lad-reasoner: Tiny multimodal models are good reasoners for logical anomaly detection, arXiv preprint arXiv:2504.12749(2025), under <b>ACM MM</b> submission. (CCF A)
         </p>
       </td>
     </tr>
@@ -155,7 +155,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       </td>
       <td>
         <p text-align="left">
-        XY Zhang, <b>GS Xie</b>, X Li, T Mei, CL Liu, A survey on learning to reject, Proceedings of the IEEE(<b>Proc. IEEE</b>) 111 (2), 185-215. (CCF A)
+        XY Zhang, <b>G.-S. Xie</b>, X Li, T Mei, CL Liu, A survey on learning to reject, Proceedings of the IEEE(<b>Proc. IEEE</b>) 111 (2), 185-215, 2023. (CCF A)
         </p>
       </td>
     </tr>
@@ -165,7 +165,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       </td>
       <td>
         <p text-align="left">
-        H Xiong, L Huang, WJT Zang, X Zhen, <b>GS Xie</b>, B Gu, L Song, On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations, IEEE Transactions on Pattern Analysis and Machine Intelligence(<b>TPAMI</b>) 46 (7), 5131-5148. (CCF A)
+        H Xiong, L Huang, WJT Zang, X Zhen, <b>G.-S. Xie</b>, B Gu, L Song, On the Number of Linear Regions of Convolutional Neural Networks With Piecewise Linear Activations, IEEE Transactions on Pattern Analysis and Machine Intelligence(<b>TPAMI</b>) 46 (7), 5131-5148, 2024. (CCF A)
         </p>
       </td>
     </tr>
