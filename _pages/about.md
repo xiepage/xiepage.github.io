@@ -36,7 +36,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, X.-Y. Zhang, S. Yan, and C.-L. Liu. SDE: A novel selective, discriminative and equalizing feature representation for visual recognition, International Journal of Computer Vision (IJCV), vol. 124, no.2, pp. 145-168, 2017. (CCF A)
-        <a href="https://link.springer.com/article/10.1007/s11263-017-1007-9">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -47,7 +46,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, X.-Y. Zhang, Y. Yao, Z. Zhang, F. Zhao, and L. Shao. VMAN: A Virtual Mainstay Alignment Network for Transductive Zero-Shot Learning, IEEE Transactions on Image Processing (TIP), vol. 30, pp. 4316-4329, 2021. (CCF A)
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9399836">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -58,7 +56,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, L. Liu, X. Jin, F. Zhu, Z. Zhang, J. Qin, Y. Yao, and L. Shao. Attentive region embedding network for zero-shot learning. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9384-9393, 2019. (CCF A)
-        <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Attentive_Region_Embedding_Network_for_Zero-Shot_Learning_CVPR_2019_paper.pdf">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -69,7 +66,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, H. Xiong, J. Liu, Y. Yao, and L. Shao. Few-Shot Semantic Segmentation with Cyclic Memory Network, IEEE International Conference on Computer Vision (ICCV), pp. 7293-7302, 2021. (CCF A)
-        <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_Few-Shot_Semantic_Segmentation_With_Cyclic_Memory_Network_ICCV_2021_paper.pdf">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -80,7 +76,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, L. Liu, F. Zhu, F. Zhao, Z. Zhang, Y. Yao, J. Qin, and L. Shao. Region graph embedding network for zero-shot learning. European Conference on Computer Vision (ECCV), pp. 562-580, 2020. (CCF B)
-        <a href="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490545.pdf">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -91,7 +86,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, X.-Y. Zhang, X. Shu, S. Yan, C.-L. Liu. Task-driven Feature Pooling for Image Classification, IEEE International Conference on Computer Vision (ICCV), pp. 1179-1187, 2015. (CCF A)
-        <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/Xie_Task-Driven_Feature_Pooling_ICCV_2015_paper.pdf">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -102,7 +96,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, T.-Z. Xiang, X.-Y. Zhang, Z. Zhang, F. Zhao, L. Shao, X. Li. Leveraging Balanced Semantic Embedding for Generative Zero-Shot Learning, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), vol. 34, no. 11, pp. 9575-9582, 2023.  
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9927312">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -113,7 +106,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, Z. Zhang, G. Liu, F. Zhu, L. Liu, L. Shao, and X. Li. Generalized zero-shot learning with multiple graph adaptive generative networks, IEEE Trans. on Neural Networks and Learning Systems (TNNLS), vol. 33, no. 7, pp. 2903-2915, 2022.
-        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9335504">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -124,7 +116,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         <b>G.-S. Xie</b>, X.-Y. Zhang, S. Yan, and C.-L. Liu. Hybrid CNN and Dictionary-Based Models for Scene Recognition and Domain Adaptation, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol.27, no.6, pp. 1263-1274, 2017. 
-        <a href="https://arxiv.org/pdf/1601.07977">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -135,7 +126,6 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         X. Shu, L. Zhang, J.Tang, <b>G.-S. Xie</b>, S. Yan. Computational face reader, International Conference on Multimedia Modeling (MMM), pp. 114-126, 2016. (Best Student Paper Award) (CCF C)
-        <a href="https://link.springer.com/chapter/10.1007/978-3-319-27671-7_10">[PDF-Link]</a>
         </p>
       </td>
     </tr>
@@ -146,7 +136,16 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
       <td>
         <p text-align="left">
         S. Chen, Z. Hong, <b>G.-S. Xie</b>, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
-        <a href="https://arxiv.org/pdf/2112.08643">[PDF-Link]</a>
+        </p>
+      </td>
+    </tr>
+          <tr>
+      <td>
+        <img align="left" width="330" height="240" src="/images/Transzero.png"/>
+      </td>
+      <td>
+        <p text-align="left">
+        S. Chen, Z. Hong, <b>G.-S. Xie</b>, Y. Song, J. Zhao, X. You, S. Yan, L. Shao, TransZero++: Cross Attribute-Guided Transformer for Zero-Shot Learning, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Early Access, DOI: 10.1109/TPAMI.2022.3229526, pp. 1-17, 2022. (CCF A)
         </p>
       </td>
     </tr>
