@@ -16,7 +16,7 @@ His current research interests mainly focus on computer vision, pattern recognit
 
 #  <font color=0969DA>News</font>
 - <font color=red>每年可招收硕士生3-4名、博士生1-2名。欢迎感兴趣的同学报考硕士、博士研究生，将在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行交流访问。欢迎优秀本科生联系参与科研项目。</font>
-- <font color=red><b>2025 年秋季入学 学术博士 仍有少量名额（可与中科院自动化所联合培养），欢迎联系(<a href="guosen.xie@njust.edu.cn">guosen.xie@njust.edu.cn</a>)！详细信息请参考：</b>(<a href="https://gs.njust.edu.cn/zsw/54/fd/c4588a349437/page.htm">https://gs.njust.edu.cn/zsw/54/fd/c4588a349437/page.htm</a>)</font>
+- <font color=red><b>2025 年秋季入学 学术博士 仍有少量名额（可与中科院自动化所联合培养），欢迎联系guosen.xie@njust.edu.cn！详细信息请参考：</b><a href="https://gs.njust.edu.cn/zsw/54/fd/c4588a349437/page.htm">https://gs.njust.edu.cn/zsw/54/fd/c4588a349437/page.htm</a></font>
   
 #  <font color=0969DA>Publications</font>
 More than 70 highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
