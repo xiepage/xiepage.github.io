@@ -15,7 +15,7 @@ Dr. Guo-Sen Xie is currently a Professor at Nanjing University of Science and Te
 His current research interests mainly focus on computer vision, pattern recognition, and deep learning. Recently, he has been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-/few-shot, and low-annotated data, driven by knowledge-based approaches.
 
 #  <font color=0969DA>News</font>
-- <font color=red>2025 年硕转博（面向本校研二同学）仍有名额（可与中科院自动化所联合培养），欢迎大家联系报名（guosen.xie@njust.edu.cn）！同时招收2026年学术博士，欢迎报考！</font>
+- <font color=red>2025 年硕转博（面向本校研二同学）仍有名额（可与中科院自动化所联合培养），欢迎大家踊跃报名（guosen.xie@njust.edu.cn）！同时招收2026年学术博士，欢迎报考！</font>
 - <font>每年可招收硕士生3-4名、博士生1-2名。欢迎感兴趣的同学报考硕士、博士研究生，将在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行交流访问。欢迎优秀本科生联系参与科研项目。</font>
 
   
