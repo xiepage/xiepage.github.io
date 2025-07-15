@@ -181,8 +181,8 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 
 #  <font color=0969DA>Service</font>
 -  Associate Editor:
-    - IEEE Transactions on Image Processing (CCF A, IF=10.8)
-    - Pattern Recognition (IF =7.5)
+    - IEEE Transactions on Image Processing (CCF A, IF=13.7)
+    - Pattern Recognition (IF =7.6)
     - Artificial Intelligence and Applications (AIA) Journal
 - Area Chair:
     - ICLR 2025
