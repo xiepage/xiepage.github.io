@@ -189,7 +189,7 @@ More than 70 highly-influenced papers have been published, including IEEE TPAMI 
 - (Senior) PC Member:
     - CVPR 2019-2025, ICCV 2019-2025, ECCV 2020-2024, WACV 2021-2025
     - NeurIPS 2022-2025, ICML 2023-2025, AAAI 2020-2025, IJCAI 2020-2024
-    - ICLR 2022-2025
+    - ICLR 2025-2026
 - Reviewer:
     - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
     - International Journal of Computer Vision (IJCV)
