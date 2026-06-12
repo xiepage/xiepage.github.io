@@ -10,17 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Guo-Sen Xie is currently a Professor at Nanjing University of Science and Technology (NJUST). He received his Ph.D. degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences (CASIA) under the supervision of [Prof. Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en), in 2016. From 2020 to 2022, he was a researcher at Mohamed bin Zayed University of Artificial Intelligence. From 2018 to 2020, he was a research scientist at Inception Institute of Artificial Intelligence. He was a visiting research student at National University of Singapore (NUS) from 2014 to 2015, working with [Prof. Shuicheng Yan](https://scholar.google.com/citations?user=DNuiPHwAAAAJ&hl=en). He has authored/co-authored over 80 papers in top conferences/journals such as IEEE TPAMI, IJCV, CVPR, ICCV, and ECCV.
+Dr. Guo-Sen Xie is currently a full Professor at Nanjing University of Science and Technology (NJUST). He received his Ph.D. degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences (CASIA) under the supervision of [Prof. Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en), in 2016. From 2020 to 2022, he was a researcher at Mohamed bin Zayed University of Artificial Intelligence. From 2018 to 2020, he was a research scientist at Inception Institute of Artificial Intelligence. He was a visiting researcher at National University of Singapore (NUS) from 2014 to 2015, working with [Prof. Shuicheng Yan](https://scholar.google.com/citations?user=DNuiPHwAAAAJ&hl=en). He has authored/co-authored over 80 papers in top conferences/journals such as IEEE TPAMI, IJCV, CVPR, ICCV, and ECCV.
 
 His current research interests mainly focus on computer vision, pattern recognition, and deep learning. Recently, he has been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-/few-shot, and low-annotated data, driven by knowledge-based approaches.
 
 #  <font color=0969DA>News</font>
-- <font color=red>招收 2026 年入学，（推免）硕士研究生多名；招收 2026 年入学，博士研究生（各类）少量。欢迎踊跃联系报名（guosen.xie@njust.edu.cn）！</font>
+- <font color=red>招收 2027 年入学，（推免）硕士研究生多名；招收 2027 年入学，博士研究生（各类）。欢迎踊跃联系报名（guosen.xie@njust.edu.cn）！</font>
 - <font>每年可招收硕士生3-4名、博士生1-2名。欢迎感兴趣的同学报考硕士、博士研究生，将在论文发表、就业和深造方面予以悉心指导！优秀者可推荐至其它意向单位进行交流访问。欢迎优秀本科生联系参与科研项目。</font>
 
   
 #  <font color=0969DA>Publications</font>
-More than 70 highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
+100+ highly-influenced papers have been published, including IEEE TPAMI (IF: 23.6), IJCV (IF: 19.5), Proceedings of the IEEE (20.6), IEEE TIP (IF: 10.6), IEEE TNNLS (IF: 10.4), IEEE TCYB (IF: 11.8), IEEE TMM (IF: 7.3), IEEE TCSVT (IF: 8.4), PR (IF: 8.0), NeurIPS (CCF A), CVPR (CCF A), ICCV (CCF A), ECCV (CCF B), AAAI (CCF A), IJCAI (CCF A), ACM MM (CCF A), etc.
 **Selected Papers**:
 <style>
   table {
