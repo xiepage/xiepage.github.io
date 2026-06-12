@@ -52,14 +52,14 @@ Building adaptive vision-language agents with reasoning, navigation, and continu
   <img src="https://img.shields.io/badge/Research%20Opportunities-Open-00A8A8?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </p>
 
-> 🔥 **招生信息**
-> 招收 **2027 年入学（推免）硕士研究生多名**，以及 **2027 年入学博士研究生（各类）**。
-> 欢迎对人工智能、计算机视觉、多模态大模型等方向感兴趣的同学踊跃联系报名：
-> 📧 **[guosen.xie@njust.edu.cn](mailto:guosen.xie@njust.edu.cn)**
+🔥 **招生信息**
+招收 **2027 年入学（推免）硕士研究生多名**，以及 **2027 年入学博士研究生（各类）**。
+ 欢迎对人工智能、计算机视觉、多模态大模型等方向感兴趣的同学踊跃联系报名：
+📧 **[guosen.xie@njust.edu.cn](mailto:guosen.xie@njust.edu.cn)**
 
-> 🎓 **长期招生**
-> 每年可招收 **硕士生 3–4 名**、**博士生 1–2 名**。欢迎有志于科研的同学报考硕士、博士研究生。课题组将在 **论文发表、科研训练、就业发展和继续深造** 等方面予以悉心指导；优秀学生可推荐至国内外相关单位进行交流访问。
-> 同时欢迎优秀本科生联系参与科研项目。
+🎓 **长期招生**
+ 每年可招收 **硕士生 3–4 名**、**博士生 1–2 名**。欢迎有志于科研的同学报考硕士、博士研究生。课题组将在 **论文发表、科研训练、就业发展和继续深造** 等方面予以悉心指导；优秀学生可推荐至国内外相关单位进行交流访问。
+ 同时欢迎优秀本科生联系参与科研项目。
 
   
 #  <font color=0969DA>Publications</font>
