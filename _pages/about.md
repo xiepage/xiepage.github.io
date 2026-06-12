@@ -10,9 +10,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Guo-Sen Xie is currently a full Professor at Nanjing University of Science and Technology (NJUST). He received his Ph.D. degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences (CASIA) under the supervision of [Prof. Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en), in 2016. From 2020 to 2022, he was a researcher at Mohamed bin Zayed University of Artificial Intelligence. From 2018 to 2020, he was a research scientist at Inception Institute of Artificial Intelligence. He was a visiting researcher at National University of Singapore (NUS) from 2014 to 2015, working with [Prof. Shuicheng Yan](https://scholar.google.com/citations?user=DNuiPHwAAAAJ&hl=en). He has authored/co-authored over 80 papers in top conferences/journals such as IEEE TPAMI, IJCV, CVPR, ICCV, and ECCV.
+Dr. Guo-Sen Xie is currently a full Professor at Nanjing University of Science and Technology (NJUST). He received his Ph.D. degree in Pattern Recognition and Intelligent System from Institute of Automation, Chinese Academy of Sciences (CASIA) under the supervision of [Prof. Cheng-Lin Liu](https://scholar.google.com/citations?user=8r3y8IMAAAAJ&hl=en), in 2016. From 2020 to 2022, he was a researcher at Mohamed bin Zayed University of Artificial Intelligence. From 2018 to 2020, he was a research scientist at Inception Institute of Artificial Intelligence. He was a visiting researcher at National University of Singapore (NUS) from 2014 to 2015, working with [Prof. Shuicheng Yan](https://scholar.google.com/citations?user=DNuiPHwAAAAJ&hl=en). He has authored/co-authored over 80 papers in top conferences/journals such as IEEE TPAMI, IJCV, CVPR, ICCV, and ECCV. His current research interests mainly focus on computer vision, pattern recognition, and multimodal large language models (MLLMs). 
 
-His current research interests mainly focus on computer vision, pattern recognition, and deep learning. Recently, he has been focusing on the challenging problem of understanding complex visual data, such as cross-category, zero-/few-shot, and low-annotated data, driven by knowledge-based approaches.
+Our research focuses on **data-efficient visual learning, multimodal intelligent perception, and self-evolving vision-language agents**, aiming to develop robust, generalizable, and adaptive AI systems for complex real-world environments. By bridging visual understanding, industrial intelligence, and autonomous decision-making, we seek to advance trustworthy AI technologies from perception to reasoning and action.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=gradient&text=Research%20Directions&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Direction%201-Vision%20Understanding-6C63FF?style=for-the-badge" />
+</p>
+
+### 1. Data-Efficient Visual Understanding
+
+Developing robust and generalizable visual learning methods for complex image and video data under limited supervision, with a focus on representation learning, perception reliability, and open-world visual understanding.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Direction%202-Multimodal%20Intelligence-00A8A8?style=for-the-badge" />
+</p>
+
+### 2. Multimodal Perception and Industrial Intelligence
+
+Exploring multimodal learning frameworks for intelligent perception in real-world industrial scenarios, aiming to improve defect detection, anomaly understanding, and trustworthy visual decision-making.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Direction%203-Vision--Language%20Agents-FF8C42?style=for-the-badge" />
+</p>
+
+### 3. Self-Evolving Agents and Vision-Language Intelligence
+
+Building adaptive vision-language agents with reasoning, navigation, and continual self-improvement capabilities, towards autonomous learning and decision-making in open environments.
+
+
+
 
 #  <font color=0969DA>News</font>
 - <font color=red>招收 2027 年入学，（推免）硕士研究生多名；招收 2027 年入学，博士研究生（各类）。欢迎踊跃联系报名（guosen.xie@njust.edu.cn）！</font>
